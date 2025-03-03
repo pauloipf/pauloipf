@@ -6,12 +6,12 @@
 
 - 👨‍🔧 Graduando: [Engenharia de Produção pela UNIPLAC](https://www.uniplaclages.edu.br/graduacao/apresentacao/23-engenharia-de-producao)
 
-## Atuação Profissional
+## 💼 Atuação Profissional
 - <a href="https://www.ibge.gov.br"><img src="https://www.ibge.gov.br/templates/novo_portal_base/imagens/logo_mobile.png" width="70" alt="IBGE"/></a> : 8 anos (Chefe de Agência e Coordenador Censitário)
 - 🐝 [Beemind](www.beemind.com.br) : 3 anos (Power BI Developer)
 
-## Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloipf/)
+## 📞 Contatos
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloipf/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pauloipf)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pauloipf/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@pauloipf/)
