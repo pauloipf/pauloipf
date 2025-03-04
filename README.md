@@ -7,8 +7,8 @@
 - 👨‍🔧 Graduando: [Engenharia de Produção pela UNIPLAC](https://www.uniplaclages.edu.br/graduacao/apresentacao/23-engenharia-de-producao)
 
 ## 💼 Atuação Profissional
-- <a href="https://www.ibge.gov.br"><img src="https://www.ibge.gov.br/templates/novo_portal_base/imagens/logo_mobile.png" width="70" alt="IBGE"/></a> : desde JUN/2017 (Chefe de Agência e Coordenador Censitário)
-- 🐝 [Beemind](www.beemind.com.br) : desde jan/2022 (Power BI Developer)
+- <a href="https://www.ibge.gov.br"><img src="https://www.ibge.gov.br/templates/novo_portal_base/imagens/logo_mobile.png" width="70" alt="IBGE" target="_blank" rel="noopener noreferrer"/></a> : desde JUN/2017 (Chefe de Agência e Coordenador Censitário)
+- 🐝 [Beemind](https://www.beemind.com.br) : desde jan/2022 (Power BI Developer)
 
 ## 📞 Contatos
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloipf/)
