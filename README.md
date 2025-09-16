@@ -4,7 +4,7 @@
 ## 👨‍🎓 Acadêmico
 - 👨‍🔬 Graduando: [Ciência da Computação pelo IFSC](https://www.ifsc.edu.br/en/bacharelado/-/visualizar/ciencia-da-computacao/Campus-Lages/29/39/iNqDjzxklp3A) 
 
-- 👨‍🔧 Graduando: [Engenharia de Produção pela UNIPLAC](https://www.uniplaclages.edu.br/graduacao/apresentacao/23-engenharia-de-producao)
+- 👨‍🔧 Engenhario de Produção pela UNIPLAC](https://www.uniplaclages.edu.br/graduacao/apresentacao/23-engenharia-de-producao)
 
 ## 💼 Atuação Profissional
 - <a href="https://www.ibge.gov.br"><img src="https://www.ibge.gov.br/templates/novo_portal_base/imagens/logo_mobile.png" width="70" alt="IBGE" target="_blank" rel="noopener noreferrer"/></a> : desde JUN/2017 (Chefe de Agência e Coordenador Censitário)
