@@ -2,7 +2,7 @@
  ✨ Profissional com mais de 10 anos de experiência em diferentes áreas, atualmente em transição para Desenvolvimento de Software. Graduando em Ciência da Computação no IFSC e com experiência prática em modelagem de relatórios com Power BI, desenvolvimento com Python e Java, e manipulação de bancos de dados SQL. Busco uma oportunidade como Desenvolvedor Backend para aplicar minhas habilidades técnicas e analíticas na criação de soluções inovadoras.
 
 ## 👨‍🎓 Acadêmico
-- 👨‍🔬 Graduando: [Ciência da Computação pelo IFSC](https://www.ifsc.edu.br/en/bacharelado/-/visualizar/ciencia-da-computacao/Campus-Lages/29/39/iNqDjzxklp3A) 
+- 👨‍🔬 Dupla titulação: [Ciência da Computação pelo IFSC](https://www.ifsc.edu.br/en/bacharelado/-/visualizar/ciencia-da-computacao/Campus-Lages/29/39/iNqDjzxklp3A) / [Mestrado em Cibersegurança](https://www.ipvc.pt/cursos/ciberseguranca/)
 
 - 👨‍🔧 [Engenhario de Produção pela UNIPLAC](https://www.uniplaclages.edu.br/graduacao/apresentacao/23-engenharia-de-producao)
 
